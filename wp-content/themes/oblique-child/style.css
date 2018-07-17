@@ -1,0 +1,28 @@
+/*
+Theme Name: oblique-child
+Description: Une description de votre thème
+Author: Votre prénom et Nom
+Author URI: https://www.votre-domaine.fr
+Template: oblique
+Version: 1.0
+*/
+
+.lcp_catlist {
+    list-style: none;
+    }
+
+    .read-more {
+        background-color: #f2a32e;
+    }
+
+    button, .button, input[type="button"], input[type="reset"], input[type="submit"] {
+        background-color: #f2a32e;
+    }
+
+    .site-header {
+        background: url(http://localhost/wordpress/wp-content/themes/oblique-child/img/bgwd.jpg);
+    }
+
+    .widget-title {
+        color: #f2a32e;
+    }
